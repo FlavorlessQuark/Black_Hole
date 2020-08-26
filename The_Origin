@@ -1,27 +1,9 @@
-This is all that I know as of now and that I can write. I keep this as a reference for the future, on what I have learned.
+	- With Tiles I hope to be able to make a simple function which tells me what part of the screen has been clicked, and which button this corresponds to.
+My main problem is that I am very reluctant to loop trough every object on the screen in order to find which has been hit.
+I think the best solution to these kind of problems is to divide the screen in a grid, each square pointing to an array of button pointers in the grid.
+I am not sure that this is the optimal solution but maybe a step in the right direction? With this I would still need to iterate through every
+button in the grid square, as well as allocate sufficient memory for each and every grid square. Taking all of this into account, would it be
+faster /better to only iterate trough all of the object? I think it would be, at least memory wise only up to a certain number of objects...That number is unknown to me...
 
-
-1 - We do not know what the Big Bang is. I have read Many theories, though most of them describe the instang after the BigBang, as time and physics break down at the very beginning, it is impossible to describe
-how it started.
-My favorite theory is one whose name I cannot remember. It states that the end of the Universe is essentially the same as its beginning. When all has decayed and become uniform, there is no telling whether the universe is millions of light years wide or
-if it is as small as a pea. And so in this way, the beginning of a universe is akin to the end of another.
-
-2 - States. Particles cannot be in the same state.
-
-3 - Gravity is not a force. It is the curvature of SpaceTime. But if it is so, then why the talks about the speed of the gravitaitonal force?
-
-4 - An object in motion stays in motion. And object at rest stays at rest. Unless a force is applied to it.
-
-5 - Everything is relative.
-
-6 - Matter is made up of Quarks. They come in 6 flavors (3 pairs) Up and Down, Strange and Charm, Top and Bottom
-
-7 - Mass is given by interaction with the Higss field. It is a scalar field. Without this interaction , all prticles would be massless and thus would travel at the speed of light.
-
-8 - It is harder to write what you know when you are actively trying to recall it.
-
-9 - Black holes emit radiation. I think there are many explanations for this but the one I remembered was that, virtual particules are always being created and destroyed. But near a black hole it can happen that
-one of the virtual particles falls beneath the even horizon and it's counterpart is left to wander the universe. When a pair of virtual particles apear, they "borrow" energy from the universe, only to give it back when they disapear. However if they don't disapear, they cant put back the energey and so it has ot be permanently taken from somewhere
-and that somewehre is the black hole in which half of the pari fell.
-
-10 - We are not in fact the center of the universe.
+Maybe I can instead have a sorted array / list and store its median so I can know which half to search? This would still be relatively slow given a large enough amount of numbers.
+It is always a tradeoff between speed and memory.
