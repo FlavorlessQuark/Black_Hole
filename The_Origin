@@ -19,3 +19,4 @@ This problem is more apparent for Math_Tools. Not all projects require Vectors a
 my understanding of code structure better if am able to make most files /functions of my libraries modular and abe to to be used on their own. I am thinking I should add a Master struct to SDL_Tools
 as the current Display struct is good for keeping track of things but I do not want to keep everything in the Display struct. Another concern is that the mouse_x, andmouse_y should really be Vector2
 although I think I can do some casting magic on that or not use them at all. I am not yet sure that getting the mouse state at every frame is a betetr solution than simply getting it's x and y position.
+	Adding a DefineHeader [header name] function script would be nice so I don't have to manually define them all the time
