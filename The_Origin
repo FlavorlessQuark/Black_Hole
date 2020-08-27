@@ -7,3 +7,10 @@ faster /better to only iterate trough all of the object? I think it would be, at
 
 Maybe I can instead have a sorted array / list and store its median so I can know which half to search? This would still be relatively slow given a large enough amount of numbers.
 It is always a tradeoff between speed and memory.
+
+	- I should write a more extensive Quantum_Vault... The present one only contains a SDL projecttemplate but I do not think I will be satisfied with it much longer... I need command
+option so that I can use only what I need... Altough it might be better to have everything in an archive file? I am not sure. I just know the current template is mediocre at best.
+This problem is more apparent for Math_Tools. Not all projects require Vectors and misc funxtion but the current Quantum_Vault does not differenciate between them. It might also make 
+my understanding of code structure better if am able to make most files /functions of my libraries modular and abe to to be used on their own. I am thinking I should add a Master struct to SDL_Tools
+as the current Display struct is good for keeping track of things but I do not want to keep everything in the Display struct. Another concern is that the mouse_x, andmouse_y should really be Vector2
+although I think I can do some casting magic on that or not use them at all. I am not yet sure that getting the mouse state at every frame is a betetr solution than simply getting it's x and y position.
