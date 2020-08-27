@@ -10,7 +10,8 @@ It is always a tradeoff between speed and memory.
 
 	- It will soon be necessary to add a Grid struct so that I am able to clickon things on the screen. The real challenge is to make it so I am able to use it or not use it.. and so it
 must not be an integrant part of the tools... I must also restructure my tools so that every file behaves in this way. I think void pointers will be useful for this..
-
+	- It might also become necessary to add a lerp functions to Math_Tools... It occured to me when I was thinking about Boids, that they should not snap into an angle but rather get to it over time
+For now I do not know how this function works but I intend to find out
 
 	- I should write a more extensive Quantum_Vault... The present one only contains a SDL projecttemplate but I do not think I will be satisfied with it much longer... I need command
 option so that I can use only what I need... Altough it might be better to have everything in an archive file? I am not sure. I just know the current template is mediocre at best.
