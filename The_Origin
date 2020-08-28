@@ -1,4 +1,6 @@
-	- With Tiles I hope to be able to make a simple function which tells me what part of the screen has been clicked, and which button this corresponds to.
+	
+////////////////////////////AUGUST2020////////////////////////////////
+- With Tiles I hope to be able to make a simple function which tells me what part of the screen has been clicked, and which button this corresponds to.
 My main problem is that I am very reluctant to loop trough every object on the screen in order to find which has been hit.
 I think the best solution to these kind of problems is to divide the screen in a grid, each square pointing to an array of button pointers in the grid.
 I am not sure that this is the optimal solution but maybe a step in the right direction? With this I would still need to iterate through every
@@ -20,3 +22,7 @@ my understanding of code structure better if am able to make most files /functio
 as the current Display struct is good for keeping track of things but I do not want to keep everything in the Display struct. Another concern is that the mouse_x, andmouse_y should really be Vector2
 although I think I can do some casting magic on that or not use them at all. I am not yet sure that getting the mouse state at every frame is a betetr solution than simply getting it's x and y position.
 	Adding a DefineHeader [header name] function script would be nice so I don't have to manually define them all the time
+
+	- Taking a break from coding... Altough before I go, here is a reminder to myself of what to do when I come back : ^ the above about the Vault needs to be done.
+In preparation for Obj renderer, make 3d vectors.. I also need to finish restructuring and rewriting SDL_Tools, although I have yet to come up with a decent idea of how to organize everything inside of it.
+I think it will soon be time to compile it into an archive file.
