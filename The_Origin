@@ -26,3 +26,8 @@ although I think I can do some casting magic on that or not use them at all. I a
 	- Taking a break from coding... Altough before I go, here is a reminder to myself of what to do when I come back : ^ the above about the Vault needs to be done.
 In preparation for Obj renderer, make 3d vectors.. I also need to finish restructuring and rewriting SDL_Tools, although I have yet to come up with a decent idea of how to organize everything inside of it.
 I think it will soon be time to compile it into an archive file.
+
+
+////////////////////////////SEPTEMBER2020////////////////////////////////
+- As it is customary, not everything goes according to plan. Mine has shifted from C to learning new languages, I shall complete Advent of Code, and learn Python, Java, Go, Rust and Perl.
+Then I will come back to my beloved C
