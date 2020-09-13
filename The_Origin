@@ -31,3 +31,7 @@ I think it will soon be time to compile it into an archive file.
 ////////////////////////////SEPTEMBER2020////////////////////////////////
 - As it is customary, not everything goes according to plan. Mine has shifted from C to learning new languages, I shall complete Advent of Code, and learn Python, Java, Go, Rust and Perl.
 Then I will come back to my beloved C
+
+There is large performance boost to be had if I were to name my variables properly. I have always tried to name them something short, though it leargely restricts my choices. I have spent an hour
+on advent of code trying to fix something, until I realized I was using the wrong variable. But it was not noticeable as the variable name was descriptive of what I wanted to use. 
+Variable names matter
