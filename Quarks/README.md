@@ -9,7 +9,7 @@ Here I will record what I have learned about these languages
 
 ## -Python-
 
-## Beatiful is better than ugly
+### Beatiful is better than ugly
 
 I now have a fairly good idea of which subjects I should master, was I to get better at python(not in order of importance):
 
