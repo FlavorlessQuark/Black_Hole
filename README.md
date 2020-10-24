@@ -23,7 +23,7 @@ Like a black hole
 
 - Here starts the Journey. For now I am just a newborn. I do not know much nor do I know what I don't know. But line after line, I get better understanding of code.. 
 This past month I have been focusing on Graphics projects, which are my favorited. Eventually I would like to write a game engine. But for now I need to build my skills.
-SDL_Tools is a testimony of what I have learned, and will upgrade it as time passes...
+SDL_Tools is a testimony of what I have learned, and I will upgrade it as time passes...
 
 **September 2020**
 
@@ -33,4 +33,6 @@ As always I have recorded my progress in Python in Quarks.
 **October 2020**
 
 - Back to C for advent of Code. I have completed the year 2015 last month and hope to complete 2016 and 2017 and even start on 2018 this month. The goal being to finish all years in time for AoC 2020...
-It feels like an eon has passed by since August... it's only been a few months yet my comprehension of programming has greatly impvoed. There is still a mountain to climb, but with each step, the ascension becomes easier
+It feels like an eon has passed by since August... it's only been a few months yet my comprehension of programming has greatly improved. There is still a mountain to climb, but with each step, the ascension becomes easier
+
+42 is closing... Time is always ticking. I managed to complete AoC 2016 and get halfway through AoC 2017, unfortunately my progress stops here. The time I have left in these dorms is counted and must be put to good use. As it stands I will neeed to learn som Js and improve on my knowledge of Python, perhaps do leetcode and hackerank exercises. For now I have to clean up and organize this github. Providing appropriate Readmes and dinishing documentting  the libs I've made [and possible improve them as well]. see you in November.
