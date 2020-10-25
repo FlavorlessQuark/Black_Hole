@@ -2,11 +2,11 @@
 
 ### Year 2020
 
-**[August](august-2020)**
+**[August](#august-2020)**
 
-**[September](september-2020)**
+**[September](#september-2020)**
 
-**[October](october-2020)**
+**[October](#october-2020)**
 
 ## August2020
 - With Tiles I hope to be able to make a simple function which tells me what part of the screen has been clicked, and which button this corresponds to.
