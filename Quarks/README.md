@@ -21,6 +21,8 @@ I'm not sure if these count as comprehensions but these types of expression : `n
 
 - Fourht, built-in functions and **[Lambda][2]**. Sum, map, int, list etc... are all functions worth using. There are so many little quality of life things in these that I can't possible write them all here. But I think the real power is they can all be combined. You can for example, apply a function to each item in a list that you just made out of a string of integers. And you can do that in one expression. Lambda and map just go hand in hand. 
 
+- Generators are awesome.
+
 [0]:https://docs.python.org/3/tutorial/datastructures.html?highlight=comprehension#list-comprehensions
 [1]:https://docs.python.org/3/library/re.html
 [2]:https://docs.python.org/3/reference/expressions.html
