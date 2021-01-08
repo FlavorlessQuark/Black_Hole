@@ -9,14 +9,6 @@ Information is never lost, even in the most warped of SpaceTimes
 This will be done, quanta by quanta, until I have absorbed any and all knowledge.
 Like a black hole
 
-## Space and time
-
-- **Time** contains a log of all my projects and the reason why they came into being/ what I learned from them. From AUG 2020 onwards
-
-- **Quarks** The building blocks. The languages I learned and what is important about them. I think they each teach a different aspect of programming, that may or may not be relevant to other languages.
-
-- **Information** Important non language specific stuff I leaned. The general stuff like " Don't do 4 billion calls to sys()"
-
 ## Gravity
 
 **August 2020**
@@ -36,3 +28,12 @@ As always I have recorded my progress in Python in Quarks.
 It feels like an eon has passed by since August... it's only been a few months yet my comprehension of programming has greatly improved. There is still a mountain to climb, but with each step, the ascension becomes easier
 
 42 is closing... Time is always ticking. I managed to complete AoC 2016 and get halfway through AoC 2017, unfortunately my progress stops here. The time I have left in these dorms is counted and must be put to good use. As it stands I will neeed to learn som Js and improve on my knowledge of Python, perhaps do leetcode and hackerank exercises. For now I have to clean up and organize this github. Providing appropriate Readmes and dinishing documentting  the libs I've made [and possible improve them as well]. see you in November.
+
+**December 2020**
+
+- Busy month of November forgot to write. Not much this month due to holidays, most notable thing is AoC.
+
+**January 2021**
+
+- It's time to refocus. I want to focus on learning more programming concepts. Finishing AoC, doing more Leetcode, Hackerrank and Codewars and TAOCP. I hope I can also manage to fit some time to learn about ML and AI, which is ultimately what I want to do. One function at a time... I think I have reached the point where you don't see yourelf progressing much... the point where most give up. But I will not falter.
+May the code be with me...

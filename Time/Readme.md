@@ -59,3 +59,19 @@ I am giving myself until the end of the week to finish up all that can be finish
 
 I have looked into Macros and Generic and started woking with them a little more. Although macros aren't especially safe I think they can be really useful for implementing some functions such a python's Map or C#'s foreach. There is also more to learn about optimization as I have just scratched the surface.
 I think I also need to to improve in my knowledge of algorithms and data strcutures - it might be beneficial to implement stack, queues, generic trees and dictionaries - These are the ones I am familiar with, but there's a whole part that I don't really know or use (tries, red black trees, etc)
+
+
+# November 2020
+
+42 is closing. Me and two friends have organized ourselves and now work together in a room, like a small office. The goal is to motivate each other and provide a good working environment.
+We're learning python and have finished CodingBat, and so far I've managed to complete every single C and Python  Hackerrank exercise as well as get 4 stars in C++ and Ruby.
+
+## December 2020
+
+End of the year.
+Did AoC from Nov 30 to Dec 25. First time doing it live. Only managed to get to the leaderboard on Day1 but it doesn't really count as the website went down due to server overload
+There was a leaderboard consituted of 42 students in which I ended up 3rd. I had missed a day or two (I didn't do them when they were realeased) though and I think I could have managed second place if I hadn't.
+I learned a lot from it, but more attitude wise than coding wise. I tend to give up very fast if I don't come up with a solution to the problem the first time I read it. Of course I don't give up for very long, I usually come back to the problem 10 minutes later but it is still an obstacle for one who wishes to be on the leaderboard.
+
+
+
