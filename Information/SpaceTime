@@ -1,6 +1,0 @@
-Memory usage and speed are always concerns. Here I will write what I have learned in order to be more efficient memory and time wise
-
-  - It is faster to do math than to fetch memory, or so I am told. Hence something that seems to require more math and thus more time, is in fact faster than retrieving a stored value.
-One example of this are the direction of vectors. During the Boids project, I had wondered several times whether it would be better to store the angle of a vector rather than calculate it everytime.
-After some testing and some thinking, I concluded that the fastest way was indeed to use trigonometry everytime I needed the values. Altough I still try to keep the operations to a minimum. 
-This is why, most of my functions that would in general require sqrt are left as is. A good example of this is the distance between two points. c = sqrt(a^2 + b^2); it is not necessary, int this case, to use the sqrt.
