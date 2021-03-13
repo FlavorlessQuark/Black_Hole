@@ -1,7 +1,12 @@
 # Black_Hole
 Information is never lost, even in the most warped of SpaceTimes
 
-## In short... do not cross the Event_Horizon.
+## ~ I wanna be the very best ~
+
+
+Every byte of code takes us closer
+
+## Do not cross the Event_Horizon.
 
 - Here I will keep track of my projects and the knowledge that come with their completion, as well as the observations and reflections I have had while making them.
 
@@ -17,11 +22,6 @@ Like a black hole
 This past month I have been focusing on Graphics projects, which are my favorited. Eventually I would like to write a game engine. But for now I need to build my skills.
 SDL_Tools is a testimony of what I have learned, and I will upgrade it as time passes...
 
-**September 2020**
-
-- I am taking a break from graphics project to work on Advent of code. A series of short problems. I originally wanted to learned as many langues as possible but I think I will focus on these four : Python, C, C++ and Assembly. For the kind of work I want to do in the future, I think they are the best suited.
-As always I have recorded my progress in Python in Quarks.
-
 **October 2020**
 
 - Back to C for advent of Code. I have completed the year 2015 last month and hope to complete 2016 and 2017 and even start on 2018 this month. The goal being to finish all years in time for AoC 2020...
@@ -29,11 +29,10 @@ It feels like an eon has passed by since August... it's only been a few months y
 
 42 is closing... Time is always ticking. I managed to complete AoC 2016 and get halfway through AoC 2017, unfortunately my progress stops here. The time I have left in these dorms is counted and must be put to good use. As it stands I will neeed to learn som Js and improve on my knowledge of Python, perhaps do leetcode and hackerank exercises. For now I have to clean up and organize this github. Providing appropriate Readmes and dinishing documentting  the libs I've made [and possible improve them as well]. see you in November.
 
-**December 2020**
+**March 2021**
 
-- Busy month of November forgot to write. Not much this month due to holidays, most notable thing is AoC.
+- Still here and still coding. Came a long way since August.
 
-**January 2021**
 
-- It's time to refocus. I want to focus on learning more programming concepts. Finishing AoC, doing more Leetcode, Hackerrank and Codewars and TAOCP. I hope I can also manage to fit some time to learn about ML and AI, which is ultimately what I want to do. One function at a time... I think I have reached the point where you don't see yourelf progressing much... the point where most give up. But I will not falter.
-May the code be with me...
+
+## ~ Like no one ever was ~
