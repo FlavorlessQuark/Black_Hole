@@ -3,6 +3,8 @@ Information is never lost, even in the most warped of SpaceTimes
 
 ## ~ I wanna be the very best ~
 
+<br> <img align="center" src="ressources/Itson.gif"/><br>
+
 
 Every byte of code takes us closer
 
@@ -31,8 +33,8 @@ It feels like an eon has passed by since August... it's only been a few months y
 
 **March 2021**
 
-- Still here and still coding. Came a long way since August.
-
-
+- Still here and still coding. My coding skills truly have improved since August, even though it's only  been 6 months, the change is very noticeable. Though I have sometimes truggled to solve some problems, I have never given up. I 've made projects that seemed impossible to me a short while ago. A raymarcher (barely functioning but still!). I've made a wraper around SDL that does automagic animations and input mapping! I've made fractals with Sine coloring! And now I think I want to build up a website that will contain small games I have made. I should make a new one every few weeks until I run out of ideas.
+The slope gets steeper, but I shall be the very best and I shall keep climbing.
+Like no one ever was!
 
 ## ~ Like no one ever was ~
