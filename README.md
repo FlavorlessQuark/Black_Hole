@@ -7,12 +7,29 @@ Information is never lost, even in the most warped of SpaceTimes
 
 
 Every byte of code takes us closer
+Every line makes us stronger
+Every week a new project:
+
+[x] March week#2 - Tiles
+[ ] March week#3
+--------------------------------
+ Getting good - Bigger projects I want to accomplish -
+ 
+ - [ ] Rendering engine
+ - [ ] Make a website
+ - [ ] Robots!
+ - [ ] Physics!
+ - [ ] Make a game
+ - [ ] Complete Wrapper for SDL2
+ - [ ] Make a programming language
+ - [ ] Make an OS
+ - [ ] Get on AoC leaderboard
+ - [ ] Find the answer to life, the universe and everything
+
 
 ## Do not cross the Event_Horizon.
 
-- Here I will keep track of my projects and the knowledge that come with their completion, as well as the observations and reflections I have had while making them.
-
- - From colliding balls to entire universes, I will also write about the projects I wish to accomplish and what I hope to learn from them.
+From colliding balls to entire universes, I will code many projects and seek the understanding that comes with them
 This will be done, quanta by quanta, until I have absorbed any and all knowledge.
 Like a black hole
 
@@ -32,7 +49,7 @@ It feels like an eon has passed by since August... it's only been a few months y
 
 **March 2021**
 
-- Still here and still coding. My coding skills truly have improved since August, even though it's only  been 6 months, the change is very noticeable. Though I have sometimes truggled to solve some problems, I have never given up. I 've made projects that seemed impossible to me a short while ago. A raymarcher (barely functioning but still!). I've made a wraper around SDL that does automagic animations and input mapping! I've made fractals with Sine coloring! And now I think I want to build up a website that will contain small games I have made. I should make a new one every few weeks until I run out of ideas.
+- Still here and still coding. My coding skills truly have improved since August, even though it's only  been 6 months, the change is very noticeable. Though I have sometimes struggled to solve some problems, I have never given up. I 've made projects that seemed impossible to me a short while ago. A raymarcher (barely functioning but still!). I've made a wraper around SDL that does automagic animations and input mapping! I've made fractals with Sine coloring! And now I think I want to build up a website that will contain small games I have made. I should make a new one every few weeks until I run out of ideas.
 The slope gets steeper, but I shall be the very best and I shall keep climbing.
 Like no one ever was!
 
