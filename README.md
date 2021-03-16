@@ -10,9 +10,8 @@ Every byte of code takes us closer
 Every line makes us stronger
 Every week a new project:
 
-[x] March week#2 - Tiles
-
-[ ] March week#3
+- [x] March week#2 - Tiles
+- [ ] March week#3
 
 --------------------------------
  Getting good - Bigger projects I want to accomplish -
