@@ -7,7 +7,9 @@ Information is never lost, even in the most warped of SpaceTimes
 
 
 Every byte of code brings us closer
+
 Every line makes us stronger
+
 Every file takes us farther
 
 --------------------------------
