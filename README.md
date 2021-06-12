@@ -53,6 +53,7 @@ It feels like an eon has passed by since August... it's only been a few months y
 
 And now I think I want to build up a website that will contain small games I have made. I should make a new one every few weeks until I run out of ideas.
 The slope gets steeper, but I shall be the very best and I shall keep climbing
+
 Like no one ever was!
 
 **June 2021**
