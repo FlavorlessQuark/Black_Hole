@@ -52,8 +52,11 @@ It feels like an eon has passed by since August... it's only been a few months y
 - Still here and still coding. My coding skills truly have improved since August, even though it's only  been 8 months, the change is very noticeable. Though I have sometimes struggled to solve some problems, I have never given up. I 've made projects that seemed impossible to me a short while ago. A raymarcher (barely functioning but still!). I've made a wraper around SDL that does automagic animations and input mapping! I've made fractals with Sine coloring! I even completed advent of code 2020, doing each problem as they came out and got on the learderboard once!
 
 And now I think I want to build up a website that will contain small games I have made. I should make a new one every few weeks until I run out of ideas.
-The slope gets steeper, but I shall be the very best and I shall keep climbing.
-
+The slope gets steeper, but I shall be the very best and I shall keep climbing
 Like no one ever was!
+
+**June 2021**
+
+- Failure is the greatest teacher, said someone, probably. Well, failed I have, and learn I must. I recently attempted to pass the Problem solving certification on Hackerrank. Well, I do think i was given somewhat hard problems... and these are not straight coding problems, rather, they require a bit of math. And though I like math I know nothing about it. Hence I have created Level_Up, which is a repository where I will collect all the problems which I have not or could not solve efficiently enough. I hpe to someday be able to slve similar problems with ease... 
 
 ## ~ Like no one ever was ~
